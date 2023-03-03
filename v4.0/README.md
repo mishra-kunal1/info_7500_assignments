@@ -1,4 +1,5 @@
-#Upgradable DutchAuction Contract
+# Upgradable DutchAuction Contract
+
 This is a Solidity smart contract for a Dutch auction of an ERC721 non-fungible token (NFT) with bids made using an ERC20 token. The contract uses OpenZeppelin libraries for ERC721, access control, and upgradability. 
 
 The contract imports the required OpenZeppelin libraries and defines two interfaces for interacting with other contracts.
