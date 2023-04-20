@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/libraries/FixedPoint.sol",
+    "id": 30108,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "6527:0:28",
+    "nodes": [],
+    "license": "GPL-3.0-or-later"
+  },
+  "id": 28
+}
