@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/interfaces/IUniswapV2ERC20.sol",
+    "id": 30027,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "1245:0:23",
+    "nodes": [],
+    "license": "Unlicense"
+  },
+  "id": 23
+}
